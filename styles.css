@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
+::-webkit-scrollbar {
+  display: none !important;
+}
+.tintillium {
+  font-family: 'Titillium Web', sans-serif !important;
+}
